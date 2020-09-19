@@ -8,6 +8,10 @@ h1 {
     padding-bottom: 10px;
 }
 
+p {
+    font-size: 12pt;
+}
+
 img {
     max-height: 35vh !important;
 }

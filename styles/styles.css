@@ -1,0 +1,18 @@
+body {
+    background-color: #41ccff !important;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+h1 {
+    font-size: 24pt !important;
+    padding-bottom: 10px;
+}
+
+p {
+    font-size: 16pt !important;
+}
+
+img {
+    max-height: 35vh !important;
+}
